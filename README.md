@@ -1,6 +1,6 @@
 # Crown Clothing
 
-Project Live @ (link)[http://crwn-store.herokuapp.com]
+Project Live @ [link](http://crwn-store.herokuapp.com)
 
 This project is built to improve my ReactJS skills. It is built with all new latest trends in react
 
