@@ -1,6 +1,6 @@
 # Crown Clothing
 
-Project Live @ link(http://crwn-store.herokuapp.com)
+Project Live @ (link)[http://crwn-store.herokuapp.com]
 
 This project is built to improve my ReactJS skills. It is built with all new latest trends in react
 
@@ -18,13 +18,13 @@ updated as Progressive web App
 
 The project is built with
 
- -ReactJs
- -Redux
- -Styled components
- -HTML
- -CSS
- -SASS
- -Express
- -Firebase
- -Stripe API
+ - ReactJs
+ - Redux
+ - Styled components
+ - HTML
+ - CSS
+ - SASS
+ - Express
+ - Firebase
+ - Stripe API
  
